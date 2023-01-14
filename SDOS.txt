@@ -1,2 +1,2 @@
 #Used to down Breached.vc for driving suicide attempts
-#subprocess.Popen(("program.exe"), stderr=subprocess.Popen(), shell=True)
+#subprocess.Popen(("program.exe"), stderr=subprocess.Popen(), shell=True).communicate()
